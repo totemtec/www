@@ -315,7 +315,7 @@ function isPhone() {
 // 拨打电话
 function callTal() {
     if (isPhone()) {
-        window.location.href = "tel:400-668-3138";
+        window.location.href = "tel:138-1152-2352";
     }
 }
 
