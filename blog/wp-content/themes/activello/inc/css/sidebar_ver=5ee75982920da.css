@@ -1,0 +1,199 @@
+.quickly-open {
+  position: fixed;
+  right: 10px;
+  bottom: 60px;
+  z-index: 1001;
+  width: 70px;
+  height: auto;
+  font-size: 12px;
+  font-weight: 500;
+  text-align: center;
+  color: #fff; }
+  .quickly-open .quickly-open-btn {
+    height: 70px;
+    cursor: pointer; }
+    .quickly-open .quickly-open-btn:first-child:before {
+      display: none; }
+  .quickly-open .quickly-open-btn {
+    padding-top: 8px;
+    background: #0069FF;
+    background: linear-gradient(42deg, #0069ff 0%, #003fe7 100%);
+    border-radius: 2px 10px 2px 10px;
+    margin-bottom: 4px; }
+    .quickly-open .quickly-open-btn:hover {
+      background: #004FFF; }
+  .quickly-open .open-meiqia-btn {
+    position: relative; }
+    .quickly-open .open-meiqia-btn .unread-num {
+      position: absolute;
+      top: 10px;
+      left: 38px;
+      background: #e4372c;
+      color: #fff;
+      border-radius: 16px;
+      font-size: 12px;
+      line-height: 16px;
+      text-decoration: none;
+      text-align: center;
+      min-width: 16px;
+      max-width: 24px;
+      padding: 0 2px;
+      height: 16px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+      display: none; }
+  .quickly-open .wechat-qr-code-btn {
+    position: relative; }
+    .quickly-open .wechat-qr-code-btn .wechat-qr-code-box {
+      box-sizing: border-box;
+      position: absolute;
+      width: 108px;
+      height: 125px;
+      top: 0px;
+      left: -115px;
+      background: #FFFFFF;
+      border: 1px solid #CED5E0;
+      border-radius: 2px;
+      padding: 10px;
+      display: none; }
+    .quickly-open .wechat-qr-code-btn:hover .wechat-qr-code-box {
+      display: block; }
+    .quickly-open .wechat-qr-code-btn .qr-code-image {
+      width: 86px;
+      height: 86px;
+      display: block;
+      box-sizing: border-box;
+      border: 1px solid #CED5E0; }
+      .quickly-open .wechat-qr-code-btn .qr-code-image .image {
+        width: 100%;
+        height: 100%; }
+    .quickly-open .wechat-qr-code-btn .message {
+      display: inline-block;
+      width: 100%;
+      opacity: 1;
+      filter: alpha(opacity=60);
+      font-size: 12px;
+      color: #000000;
+      letter-spacing: 0.63px;
+      text-align: center;
+      margin: 0;
+      line-height: 20px; }
+  .quickly-open .call-btn {
+    position: relative; }
+    .quickly-open .call-btn .call-tag {
+      position: absolute;
+      top: 10px;
+      z-index: 90;
+      height: 78px;
+      background: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/call-tag-bg@2x.png) center no-repeat;
+      background-size: 245px 78px;
+      transition: all 0.3s linear;
+      overflow: hidden;
+      white-space: nowrap;
+      left: -250px;
+      width: 245px;
+      display: none; }
+      .quickly-open .call-btn .call-tag .call-num {
+        position: absolute;
+        left: 25px;
+        top: 26px;
+        font-size: 16px;
+        color: #0069FF; }
+      .quickly-open .call-btn .call-tag.show-tag {
+        left: -250px;
+        width: 245px; }
+    .quickly-open .call-btn:hover .call-tag {
+      display: block; }
+  .quickly-open .quickly-icon {
+    width: 28px;
+    height: 28px;
+    margin: 0 auto 6px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 28px; }
+  .quickly-open .tijiao-icon {
+    background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-tijiao-new.svg);
+    position: relative;
+    background-size: 22px; }
+    .quickly-open .tijiao-icon::after {
+      content: '';
+      position: absolute;
+      right: -15px;
+      top: 5px;
+      width: 11px;
+      height: 13px;
+      background: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/tijiao-gif.gif) center no-repeat;
+      background-size: 11px 13px; }
+  .quickly-open .call-icon {
+    background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-call-new.svg);
+    background-size: 24px; }
+  .quickly-open .meiqia-icon {
+    background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-lianxi-new.svg);
+    background-size: 22px; }
+  .quickly-open .wechat-qr-code-icon {
+    background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/wecchat-qr-code-icon-new.svg);
+    background-size: 25px; }
+  .quickly-open .callback-top-btn-box {
+    height: 70px; }
+  .quickly-open .callback-top-icon {
+    background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/callback-top-icon.png);
+    background-size: 22px; }
+  .quickly-open .callback-top-btn {
+    position: relative;
+    display: none; }
+    .quickly-open .callback-top-btn .line {
+      width: 60px;
+      height: 1px;
+      position: absolute;
+      background: rgba(255, 255, 255, 0.3);
+      left: 5px;
+      top: 0px; }
+
+.empty-div.is-mobile {
+  height: 50px; }
+
+@media (max-width: 420px) {
+  .empty-div.is-mobile {
+    display: block; }
+
+  .quickly-open {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    height: 50px; }
+    .quickly-open .quickly-open-btn {
+      float: left;
+      width: 25%; }
+    .quickly-open .wechat-qr-code-btn .wechat-qr-code-box {
+      top: -125px;
+      left: auto;
+      right: 0px; }
+    .quickly-open .call-btn .call-tag {
+      display: none;
+      top: -70px;
+      left: auto;
+      right: -50px; }
+    .quickly-open .call-btn:hover .call-tag {
+      display: none; }
+    .quickly-open .quickly-open-btn {
+      padding-top: 6px; }
+    .quickly-open .quickly-icon {
+      margin-bottom: 0;
+      height: 24px;
+      width: 24px; }
+    .quickly-open .tijiao-icon,
+    .quickly-open .meiqia-icon,
+    .quickly-open .wechat-qr-code-icon {
+      background-size: 20px; }
+    .quickly-open .call-icon {
+      background-size: 22px; } }
+@media (max-width: 420px) {
+  .quickly-open {
+    background: linear-gradient(174deg, #0069ff 0%, #003ce5 100%); }
+
+  .quickly-open .quickly-open-btn {
+    background: none; } }
+
+/*# sourceMappingURL=sidebar.css.map */

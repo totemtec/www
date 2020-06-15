@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="32px" viewBox="0 0 37 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>编组 34</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="app定制" transform="translate(-1161.000000, -3083.000000)" stroke="#454C5C" stroke-width="1.8">
+            <g id="编组-38" transform="translate(1057.000000, 3083.000000)">
+                <g id="编组-34" transform="translate(104.000000, 0.000000)">
+                    <path d="M27.3197426,0.9 L9.68193566,0.9 L1.18164092,11.5007537 L18.498836,30.656647 L35.8176241,11.4321235 L27.3197426,0.9 Z" id="路径" fill-rule="nonzero"></path>
+                    <polyline id="路径-4" points="11.9328613 1.84615385 9.18564746 12.6785714 18.4988799 28.7849674"></polyline>
+                    <polyline id="路径-4" transform="translate(23.708930, 15.315561) scale(-1, 1) translate(-23.708930, -15.315561) " points="21.799528 1.84615385 19.0523141 12.6785714 28.3655465 28.7849674"></polyline>
+                    <path d="M1.85,11.6923077 L35.4815316,11.6923077" id="路径-5"></path>
+                    <path d="M18.6657658,1.84615385 L10.2543165,11.6923077" id="路径-7"></path>
+                    <path d="M27.2990992,1.84615385 L18.8876498,11.6923077" id="路径-7" transform="translate(23.093374, 6.769231) scale(-1, 1) translate(-23.093374, -6.769231) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

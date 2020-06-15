@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /tools
+Disallow: /report
+Disallow: /prototypes
+Disallow: /info
+Disallow: /ganttcharts
+Disallow: /blog/daily
+Disallow: /blog/category/industry
+Disallow: /blog/category/knowledge-share
+Disallow: /blog/category/gear-news
+Disallow: /blog/category/gear-cases
+Disallow: /hui_store/service_term
+Disallow: /hui_store/privacy 
+Disallow: /silk
+Sitemap: https://chilunyc.com/sitemap.xml
+
