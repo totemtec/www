@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="578px" height="495px" viewBox="0 0 578 495" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>制造业</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="101.397422%" y1="56.8610257%" x2="60.411376%" y2="97.9747122%" id="linearGradient-1">
+            <stop stop-color="#09E3BB" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00D4D8" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-150.0%" y="-150.0%" width="400.0%" height="400.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="3" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0%" y1="2.35442874%" x2="100%" y2="96.8396728%" id="linearGradient-3">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.198182658%" y1="2.78652488%" x2="100%" y2="96.7124732%" id="linearGradient-4">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="97.7387283%" x2="100%" y2="3.07255288%" id="linearGradient-5">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="96.853591%" x2="100%" y2="3.71295505%" id="linearGradient-6">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.1471321%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#691FE6" offset="0%"></stop>
+            <stop stop-color="#B45AE2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="32.0738768%" x2="100%" y2="61.732763%" id="linearGradient-9">
+            <stop stop-color="#691FE6" offset="0%"></stop>
+            <stop stop-color="#B45AE2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-17.0591914%" y1="63.6161156%" x2="107.121433%" y2="32.6645789%" id="linearGradient-10">
+            <stop stop-color="#691FE6" offset="0%"></stop>
+            <stop stop-color="#B45AE2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-20.6436976%" y1="27.4770865%" x2="121.794803%" y2="68.0657332%" id="linearGradient-12">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-24.2370099%" y1="67.6109994%" x2="138.401058%" y2="17.5116707%" id="linearGradient-13">
+            <stop stop-color="#1425AF" offset="0%"></stop>
+            <stop stop-color="#3A7FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="114.046263%" y1="20.9415673%" x2="2.23975803%" y2="67.2960912%" id="linearGradient-14">
+            <stop stop-color="#29D1DA" offset="0%"></stop>
+            <stop stop-color="#197DB3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="126.976714%" y1="66.7657497%" x2="0%" y2="50%" id="linearGradient-15">
+            <stop stop-color="#29D1DA" offset="0%"></stop>
+            <stop stop-color="#197DB3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-16">
+            <stop stop-color="#29D1DA" offset="0%"></stop>
+            <stop stop-color="#197DB3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-17">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="58.5506046%" x2="0%" y2="32.6186702%" id="linearGradient-18">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="114.009366%" y1="28.8405116%" x2="-15.0147766%" y2="59.2393182%" id="linearGradient-19">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-20">
+            <stop stop-color="#0F1D92" offset="0%"></stop>
+            <stop stop-color="#083FA4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.9693509%" y1="85.3657917%" x2="-79.7142736%" y2="4.4348153%" id="linearGradient-21">
+            <stop stop-color="#3474FF" offset="0%"></stop>
+            <stop stop-color="#000078" offset="100%"></stop>
+            <stop stop-color="#000078" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="77.1215134%" fx="50%" fy="77.1215134%" r="42.2552027%" gradientTransform="translate(0.500000,0.771215),scale(0.555556,1.000000),rotate(-90.000000),scale(1.000000,1.032117),translate(-0.500000,-0.771215)" id="radialGradient-22">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#96F0EE" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-23" points="36 80 0 100 36 120 72 100"></polygon>
+        <linearGradient x1="88.565128%" y1="4.0959462%" x2="30.4182233%" y2="78.9845626%" id="linearGradient-24">
+            <stop stop-color="#A9F2FF" offset="0%"></stop>
+            <stop stop-color="#70E1FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="88.565128%" y1="4.0959462%" x2="30.4182233%" y2="78.9845626%" id="linearGradient-25">
+            <stop stop-color="#72CFDF" offset="0%"></stop>
+            <stop stop-color="#3DC1E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0.763186416%" id="linearGradient-26">
+            <stop stop-color="#FFFFFF" stop-opacity="0.39880548" offset="0%"></stop>
+            <stop stop-color="#96F0EE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="73.0000002%" y1="50%" x2="0%" y2="68.3842957%" id="linearGradient-27">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="105.51779%" y1="3.41427867%" x2="0%" y2="91.3854045%" id="linearGradient-28">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="119.79245%" y1="-5.18173774%" x2="-33.1014624%" y2="111.025026%" id="linearGradient-29">
+            <stop stop-color="#F5515F" offset="0%"></stop>
+            <stop stop-color="#9F041B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="制造业" transform="translate(-704.000000, -87.000000)">
+            <g id="TOP">
+                <g id="Illustration">
+                    <g id="制造业" transform="translate(705.000000, 87.000000)">
+                        <g id="Group-7" transform="translate(0.000000, 145.000000)" fill-rule="nonzero">
+                            <g id="光线" transform="translate(2.000000, 89.000000)">
+                                <path d="M179.269956,0.294468812 L1.14696619,99.2516854 C0.181398729,99.7881118 -0.166488865,101.005718 0.369937504,101.971286 C0.551315354,102.297766 0.820486064,102.566937 1.14696619,102.748315 L282.114857,258.841587 C284.531037,260.183909 287.468963,260.183909 289.885143,258.841587 L471.44168,157.976845" id="Path" stroke="url(#linearGradient-1)" stroke-linejoin="round"></path>
+                                <g id="Group-14" transform="translate(130.000000, 173.000000)" fill="#FFFFFF">
+                                    <circle id="Oval" opacity="0.496186756" filter="url(#filter-2)" cx="3" cy="3" r="3"></circle>
+                                    <circle id="Oval" cx="3" cy="3" r="2"></circle>
+                                </g>
+                            </g>
+                            <g id="底座">
+                                <polygon id="Path-5" stroke="url(#linearGradient-4)" fill="url(#linearGradient-3)" stroke-linejoin="round" points="-5.68434189e-14 160 -5.68434189e-14 170 288 330 288 320"></polygon>
+                                <polygon id="Path-6" stroke="url(#linearGradient-6)" fill="url(#linearGradient-5)" stroke-linejoin="round" points="288 320 288 330 576 170 576 160"></polygon>
+                                <polygon id="Path-4" fill="url(#linearGradient-7)" points="5.68434189e-14 160 288 320 576 160 288 -8.52651283e-14"></polygon>
+                            </g>
+                            <g id="地砖" opacity="0.103259859" transform="translate(153.000000, 109.000000)">
+                                <polygon id="Path-8" fill="#86FFF2" points="27 0 54 15 27 30 2.27373675e-13 15"></polygon>
+                                <polygon id="Path-8" fill="#86FFF2" points="81 0 108 15 81 30 54 15"></polygon>
+                                <polygon id="Path-8" fill="#A8FFF6" points="81 60 108 75 81 90 54 75"></polygon>
+                                <polygon id="Path-8" fill="#A8FFF6" points="135 60 162 75 135 90 108 75"></polygon>
+                            </g>
+                        </g>
+                        <g id="紫立方体" transform="translate(88.000000, 170.000000)" fill-rule="nonzero">
+                            <path d="M36,116 L72,136 L36,156 L0,136 L36,116 Z" id="紫线" stroke="url(#linearGradient-8)" stroke-linejoin="round" stroke-dasharray="4,2"></path>
+                            <g id="Group-12" transform="translate(2.000000, 41.000000)">
+                                <polygon id="Path-8" fill="url(#linearGradient-8)" points="36 -3.55271368e-15 72 20 36 40 -3.55271368e-14 20"></polygon>
+                                <polygon id="Path-17" fill="url(#linearGradient-9)" points="0 20 0 60 36 80 36 40"></polygon>
+                                <polygon id="Path-18" fill="url(#linearGradient-10)" points="72 20 36 40 36 80 72 60"></polygon>
+                            </g>
+                            <g id="Group-13" transform="translate(20.000000, 0.000000)">
+                                <polygon id="Path-23" fill="#8A39E4" points="0 57 18 67 36 57 18 47"></polygon>
+                                <path d="M18,57 L18,2.48689958e-14" id="Path-22" stroke="#00D4D8"></path>
+                                <polygon id="Path-24" fill="#6B20E6" points="0 60 0 57 18 67 18 70"></polygon>
+                                <polygon id="Path-29" fill="#6B20E6" points="18 67 18 70 36 60 36 57"></polygon>
+                            </g>
+                        </g>
+                        <g id="塔吊" transform="translate(99.000000, 0.000000)" fill-rule="nonzero">
+                            <g id="Group-12-Copy-6" transform="translate(135.000000, 163.000000)">
+                                <polygon id="Path-8" fill="url(#linearGradient-11)" points="27 0 54 15 27 30 2.27373675e-13 15"></polygon>
+                                <polygon id="Path-17" fill="url(#linearGradient-12)" points="-6.58154087e-14 15 2.84217094e-13 45 27 60 27 30"></polygon>
+                                <polygon id="Path-18" fill="url(#linearGradient-13)" points="54 15 27 30 27 60 54 45"></polygon>
+                            </g>
+                            <g id="Group-7-Copy-15" transform="translate(162.000000, 178.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                <polygon id="Path-15" stroke-opacity="0.29613904" points="27 60 54 15 54 45 27 30"></polygon>
+                                <polygon id="Path-16" stroke-opacity="0.29613904" stroke-linecap="round" points="27 60 -3.55271368e-14 15 27 30 2.84217094e-14 45"></polygon>
+                                <polygon id="Path-14" stroke-width="2" stroke-linecap="round" points="0 15 2.12992444e-29 45 27 60 27 30"></polygon>
+                                <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                            </g>
+                            <g id="Group-7-Copy-16" transform="translate(162.000000, 148.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                <polygon id="Path-15" stroke-opacity="0.29613904" points="27 60 54 15 54 45 27 30"></polygon>
+                                <polygon id="Path-16" stroke-opacity="0.29613904" stroke-linecap="round" points="27 60 -3.55271368e-14 15 27 30 2.84217094e-14 45"></polygon>
+                                <polygon id="Path-14" stroke-width="2" stroke-linecap="round" points="0 15 2.12992444e-29 45 27 60 27 30"></polygon>
+                                <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                            </g>
+                            <g id="Group-7-Copy-17" transform="translate(162.000000, 118.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                <polygon id="Path-15" stroke-opacity="0.29613904" points="27 60 54 15 54 45 27 30"></polygon>
+                                <polygon id="Path-16" stroke-opacity="0.29613904" stroke-linecap="round" points="27 60 -3.55271368e-14 15 27 30 2.84217094e-14 45"></polygon>
+                                <polygon id="Path-14" stroke-width="2" stroke-linecap="round" points="0 15 2.12992444e-29 45 27 60 27 30"></polygon>
+                                <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                            </g>
+                            <g id="Group-7-Copy-18" transform="translate(162.000000, 88.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                <polygon id="Path-15" stroke-opacity="0.29613904" points="27 60 54 15 54 45 27 30"></polygon>
+                                <polygon id="Path-16" stroke-opacity="0.29613904" stroke-linecap="round" points="27 60 -3.55271368e-14 15 27 30 2.84217094e-14 45"></polygon>
+                                <polygon id="Path-14" stroke-width="2" stroke-linecap="round" points="0 15 2.12992444e-29 45 27 60 27 30"></polygon>
+                                <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                            </g>
+                            <g id="Group-7-Copy-19" transform="translate(162.000000, 58.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                <polygon id="Path-15" stroke-opacity="0.29613904" points="27 60 54 15 54 45 27 30"></polygon>
+                                <polygon id="Path-16" stroke-opacity="0.29613904" stroke-linecap="round" points="27 60 -3.55271368e-14 15 27 30 2.84217094e-14 45"></polygon>
+                                <polygon id="Path-14" stroke-width="2" stroke-linecap="round" points="0 15 2.12992444e-29 45 27 60 27 30"></polygon>
+                                <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                            </g>
+                            <g id="Group-19">
+                                <g id="Group-18" transform="translate(99.000000, 0.000000)">
+                                    <polygon id="Path-37" fill="url(#linearGradient-14)" points="-8.52651283e-14 55 45 80 144 25 99 1.42108547e-14"></polygon>
+                                    <path d="M9,100 L36,115 L36,85 L9,70 L9,100 Z M9,110 L0,105 L0,65 L0,55 L45,80 L45,90 L45,130 L36,125 L9,110 Z" id="Combined-Shape" fill="url(#linearGradient-15)"></path>
+                                    <polygon id="Path-44" fill="url(#linearGradient-16)" points="45 130 144 75 144 25 45 80"></polygon>
+                                    <polygon id="Path-45" fill="#1B7099" points="9 100 36 85 9 70"></polygon>
+                                    <polygon id="Path-46" fill="#005678" points="9 100 36 115 36 85"></polygon>
+                                </g>
+                                <g id="Group-7-Copy-23" transform="translate(81.000000, 70.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                    <polygon id="Path-15" stroke-opacity="0.302960824" points="27 60 54 15 54 45 27 30"></polygon>
+                                    <polygon id="Path-16" stroke-opacity="0.302960824" stroke-linecap="round" points="27 30 27 -2.84217094e-14 54 15 0 15"></polygon>
+                                    <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                                    <polygon id="Path-8-Copy-2" stroke-width="2" stroke-linecap="round" points="27 30 0 15 27 0 54 15"></polygon>
+                                </g>
+                                <g id="Group-7-Copy-28" transform="translate(54.000000, 85.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                    <polygon id="Path-15" stroke-opacity="0.302960824" points="27 60 54 15 54 45 27 30"></polygon>
+                                    <polygon id="Path-16" stroke-opacity="0.302960824" stroke-linecap="round" points="27 30 27 -2.84217094e-14 54 15 0 15"></polygon>
+                                    <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                                    <polygon id="Path-8-Copy-2" stroke-width="2" stroke-linecap="round" points="27 30 0 15 27 0 54 15"></polygon>
+                                </g>
+                                <g id="Group-7-Copy-29" transform="translate(27.000000, 100.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                    <polygon id="Path-15" stroke-opacity="0.302960824" points="27 60 54 15 54 45 27 30"></polygon>
+                                    <polygon id="Path-16" stroke-opacity="0.302960824" stroke-linecap="round" points="27 30 27 -2.84217094e-14 54 15 0 15"></polygon>
+                                    <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                                    <polygon id="Path-8-Copy-2" stroke-width="2" stroke-linecap="round" points="27 30 0 15 27 0 54 15"></polygon>
+                                </g>
+                                <g id="Group-7-Copy-30" transform="translate(0.000000, 115.000000)" stroke="#77BFFF" stroke-linejoin="round">
+                                    <polygon id="Path-15" stroke-opacity="0.302960824" points="27 60 54 15 54 45 27 30"></polygon>
+                                    <polygon id="Path-16" stroke-opacity="0.302960824" stroke-linecap="round" points="27 30 27 -2.84217094e-14 54 15 0 15"></polygon>
+                                    <polygon id="Path-16" stroke-opacity="0.302960824" stroke-linecap="round" points="27 30 0 45 27 60 0 15"></polygon>
+                                    <polygon id="Path-14" stroke-width="2" stroke-linecap="round" points="0 15 2.12992444e-29 45 27 60 27 30"></polygon>
+                                    <polygon id="Path-14-Copy" stroke-width="2" stroke-linecap="round" points="27 30 27 60 54 45 54 15"></polygon>
+                                    <polygon id="Path-8-Copy-2" stroke-width="2" stroke-linecap="round" points="27 30 0 15 27 0 54 15"></polygon>
+                                </g>
+                            </g>
+                            <g id="Group-12-Copy-5" transform="translate(190.000000, 194.000000)">
+                                <polygon id="Path-8" fill="url(#linearGradient-11)" points="27 0 54 15 27 30 2.27373675e-13 15"></polygon>
+                                <polygon id="Path-17" fill="url(#linearGradient-12)" points="-6.58154087e-14 15 2.84217094e-13 45 27 60 27 30"></polygon>
+                                <polygon id="Path-18" fill="url(#linearGradient-13)" points="54 15 27 30 27 60 54 45"></polygon>
+                            </g>
+                            <g id="Group-12-Copy-5" transform="translate(190.000000, 164.000000)">
+                                <polygon id="Path-8" fill="url(#linearGradient-11)" points="27 0 54 15 27 30 2.27373675e-13 15"></polygon>
+                                <polygon id="Path-17" fill="url(#linearGradient-12)" points="-6.58154087e-14 15 2.84217094e-13 45 27 60 27 30"></polygon>
+                                <polygon id="Path-18" fill="url(#linearGradient-13)" points="54 15 27 30 27 60 54 45"></polygon>
+                            </g>
+                        </g>
+                        <g id="黄立方体" transform="translate(135.000000, 276.000000)" fill-rule="nonzero">
+                            <polygon id="Path-8" fill="url(#linearGradient-17)" points="36 -3.55271368e-15 72 20 36 40 -3.55271368e-14 20"></polygon>
+                            <polygon id="Path-17" fill="url(#linearGradient-18)" points="0 20 0 60 36 80 36 40"></polygon>
+                            <polygon id="Path-18" fill="url(#linearGradient-19)" points="72 20 36 40 36 80 72 60"></polygon>
+                        </g>
+                        <g id="黄立方体" transform="translate(180.000000, 304.000000)" fill-rule="nonzero">
+                            <polygon id="Path-8" fill="url(#linearGradient-17)" points="36 -3.55271368e-15 72 20 36 40 -3.55271368e-14 20"></polygon>
+                            <polygon id="Path-17" fill="url(#linearGradient-18)" points="0 20 0 60 36 80 36 40"></polygon>
+                            <polygon id="Path-18" fill="url(#linearGradient-19)" points="72 20 36 40 36 80 72 60"></polygon>
+                        </g>
+                        <g id="大楼" transform="translate(333.000000, 72.000000)">
+                            <polygon id="Path-9" fill="url(#linearGradient-20)" fill-rule="nonzero" points="0 100 0 240 72 280 72 140"></polygon>
+                            <polygon id="Path-10" fill="url(#linearGradient-21)" fill-rule="nonzero" points="144 100 144 240 72 280 72 140"></polygon>
+                            <polygon id="Path-8-Copy" fill="url(#linearGradient-11)" fill-rule="nonzero" points="72 60 0 100 72 140 144 100"></polygon>
+                            <g id="灯光" transform="translate(0.000000, 109.000000)" fill-rule="nonzero">
+                                <path d="M9.23705556e-14,2 L9.23705556e-14,-1.0658141e-14 L72,40 L72,42 L9.23705556e-14,2 Z M9.23705556e-14,12 L9.23705556e-14,10 L72,50 L72,52 L9.23705556e-14,12 Z M9.23705556e-14,22 L9.23705556e-14,20 L72,60 L72,62 L9.23705556e-14,22 Z M9.23705556e-14,32 L9.23705556e-14,30 L72,70 L72,72 L9.23705556e-14,32 Z M9.23705556e-14,42 L9.23705556e-14,40 L72,80 L72,82 L9.23705556e-14,42 Z M9.23705556e-14,52 L9.23705556e-14,50 L72,90 L72,92 L9.23705556e-14,52 Z M9.23705556e-14,62 L9.23705556e-14,60 L72,100 L72,102 L9.23705556e-14,62 Z M9.23705556e-14,72 L9.23705556e-14,70 L72,110 L72,112 L9.23705556e-14,72 Z M9.23705556e-14,82 L9.23705556e-14,80 L72,120 L72,122 L9.23705556e-14,82 Z M9.23705556e-14,92 L9.23705556e-14,90 L72,130 L72,132 L9.23705556e-14,92 Z M9.23705556e-14,102 L9.23705556e-14,100 L72,140 L72,142 L9.23705556e-14,102 Z M9.23705556e-14,112 L9.23705556e-14,110 L72,150 L72,152 L9.23705556e-14,112 Z M9.23705556e-14,122 L9.23705556e-14,120 L72,160 L72,162 L9.23705556e-14,122 Z" id="Combined-Shape" fill-opacity="0.115602355" fill="#07034C"></path>
+                                <path d="M144,2 L72,42 L72,40 L144,0 L144,2 Z M144,12 L72,52 L72,50 L144,10 L144,12 Z M144,22 L72,62 L72,60 L144,20 L144,22 Z M144,32 L72,72 L72,70 L144,30 L144,32 Z M144,42 L72,82 L72,80 L144,40 L144,42 Z M144,52 L72,92 L72,90 L144,50 L144,52 Z M144,62 L72,102 L72,100 L144,60 L144,62 Z M144,72 L72,112 L72,110 L144,70 L144,72 Z M144,82 L72,122 L72,120 L144,80 L144,82 Z M144,92 L72,132 L72,130 L144,90 L144,92 Z M144,102 L72,142 L72,140 L144,100 L144,102 Z M144,112 L72,152 L72,150 L144,110 L144,112 Z M144,122 L72,162 L72,160 L144,120 L144,122 Z" id="Shape" fill-opacity="0.115602355" fill="#07034C"></path>
+                                <path d="M58,32.2222222 L63,35 L63,37 L58,34.2222222 L58,32.2222222 Z M38,21.1111111 L38,23.1111111 L34,20.8888889 L34,18.8888889 L38,21.1111111 Z M28,15.5555556 L28,17.5555556 L9,7 L9,5 L28,15.5555556 Z" id="Shape" fill="#49E1EA"></path>
+                                <path d="M130,132.222222 L135,135 L135,137 L130,134.222222 L130,132.222222 Z M110,121.111111 L110,123.111111 L106,120.888889 L106,118.888889 L110,121.111111 Z M100,115.555556 L100,117.555556 L81,107 L81,105 L100,115.555556 Z" id="Shape-Copy-2" fill="#49E1EA" transform="translate(108.000000, 121.000000) scale(-1, 1) translate(-108.000000, -121.000000) "></path>
+                                <polygon id="Path" fill="#EEE22E" points="46 25.5555556 46 27.5555556 42 25.3333333 42 23.3333333"></polygon>
+                                <polygon id="Path-33" fill="#EEE22E" points="9 15 9 17 18 22 18 20"></polygon>
+                                <polygon id="Path-33-Copy" fill="#EEE22E" transform="translate(130.500000, 68.500000) scale(-1, 1) translate(-130.500000, -68.500000) " points="126 65 126 67 135 72 135 70"></polygon>
+                                <polygon id="Path-34" fill="#49E1EA" points="27 25 27 27 45 37 45 35"></polygon>
+                                <polygon id="Path-34-Copy-5" fill="#49E1EA" transform="translate(106.000000, 82.000000) scale(-1, 1) translate(-106.000000, -82.000000) " points="97 76 97 78 115 88 115 86"></polygon>
+                                <polygon id="Path-34-Copy-7" fill="#49E1EA" transform="translate(99.000000, 66.000000) scale(-1, 1) translate(-99.000000, -66.000000) " points="90 60 90 62 108 72 108 70"></polygon>
+                                <polygon id="Path-34-Copy" fill="#49E1EA" points="54 40 54 42 72 52 72 50"></polygon>
+                                <polygon id="Path-34-Copy-6" fill="#49E1EA" transform="translate(81.000000, 96.000000) scale(-1, 1) translate(-81.000000, -96.000000) " points="72 90 72 92 90 102 90 100"></polygon>
+                                <path d="M58,62.2222222 L58,64.2222222 L54,62 L54,60 L58,62.2222222 Z M62,64.4444444 L72,70 L72,72 L62,66.4444444 L62,64.4444444 Z" id="Combined-Shape" fill="#49E1EA"></path>
+                                <path d="M20,71.2222222 L20,73.2222222 L16,71 L16,69 L20,71.2222222 Z M24,73.4444444 L34,79 L34,81 L24,75.4444444 L24,73.4444444 Z" id="Combined-Shape-Copy" fill="#EEE22E"></path>
+                                <polygon id="Path-34-Copy-2" fill="#49E1EA" transform="translate(81.000000, 46.000000) scale(-1, 1) translate(-81.000000, -46.000000) " points="72 40 72 42 90 52 90 50"></polygon>
+                                <path d="M127,31.4444444 L122,34.2222222 L122,32.2222222 L127,29.4444444 L127,31.4444444 Z M131,29.2222222 L131,27.2222222 L135,25 L135,27 L131,29.2222222 Z M112,39.7777778 L106,43.1111111 L106,41.1111111 L112,37.7777778 L112,39.7777778 Z M86,54.2222222 L78,58.6666667 L78,56.6666667 L86,52.2222222 L86,54.2222222 Z" id="Shape" fill="#49E1EA"></path>
+                                <path d="M58,91.4444444 L53,94.2222222 L53,92.2222222 L58,89.4444444 L58,91.4444444 Z M62,89.2222222 L62,87.2222222 L66,85 L66,87 L62,89.2222222 Z M43,99.7777778 L37,103.111111 L37,101.111111 L43,97.7777778 L43,99.7777778 Z M17,114.222222 L9,118.666667 L9,116.666667 L17,112.222222 L17,114.222222 Z" id="Shape-Copy" fill="#49E1EA" transform="translate(37.500000, 101.833333) scale(-1, 1) translate(-37.500000, -101.833333) "></path>
+                                <polygon id="Path" fill="#EEE22E" points="131 29.2222222 131 27.2222222 135 25 135 27"></polygon>
+                                <polygon id="Path-34-Copy-3" fill="#49E1EA" transform="translate(108.000000, 31.000000) scale(-1, 1) translate(-108.000000, -31.000000) " points="99 25 99 27 117 37 117 35"></polygon>
+                                <polygon id="Path" fill="#49E1EA" points="128 10.8888889 128 8.88888889 135 5 135 7"></polygon>
+                            </g>
+                            <g id="Group-4" transform="translate(36.000000, 0.000000)">
+                                <g id="Path-31" fill-rule="nonzero">
+                                    <use fill="#FFFFFF" xlink:href="#path-23"></use>
+                                    <use fill="url(#radialGradient-22)" xlink:href="#path-23"></use>
+                                </g>
+                                <path d="M72,100 L69.3,101.5 L36,83 L2.7,101.5 L0,100 L36,80 L72,100 Z" id="Combined-Shape" fill="#0F6E63" fill-rule="nonzero" opacity="0.503045945"></path>
+                                <g id="Group-16" transform="translate(8.000000, 41.000000)">
+                                    <polygon id="Path-2" fill="url(#linearGradient-24)" points="28 0 0 40 28 56"></polygon>
+                                    <polygon id="Path-2" fill="url(#linearGradient-25)" transform="translate(42.196289, 28.000000) scale(-1, 1) translate(-42.196289, -28.000000) " points="56.3925781 0 28 40.0253906 56.3925781 56"></polygon>
+                                </g>
+                                <g id="Group-9" transform="translate(13.000000, 8.000000)" fill="#EFF7FF">
+                                    <circle id="Oval-2" cx="1.5" cy="43.5" r="1.5"></circle>
+                                    <circle id="Oval-2" cx="36" cy="31" r="1"></circle>
+                                    <circle id="Oval-2" opacity="0.900530134" cx="28" cy="10" r="1"></circle>
+                                    <circle id="Oval-2-Copy-4" opacity="0.502604167" cx="13" cy="1" r="1"></circle>
+                                    <circle id="Oval-2" cx="11" cy="25" r="1"></circle>
+                                </g>
+                                <polygon id="Path-31" fill="url(#linearGradient-26)" fill-rule="nonzero" points="0 0 2.55795385e-13 100 36 120 72 100 72 0"></polygon>
+                            </g>
+                        </g>
+                        <g id="木头" transform="translate(231.000000, 316.000000)" fill-rule="nonzero">
+                            <polygon id="Path-39" fill="url(#linearGradient-27)" points="0 75 27 90 27 80 18 75 18 65 9 60 9 50 0 45"></polygon>
+                            <polygon id="Path-13" fill="url(#linearGradient-28)" points="9 60 9 50 90 5 90 15"></polygon>
+                            <polygon id="Path-13-Copy" fill="url(#linearGradient-28)" points="18 75 18 65 99 20 99 30"></polygon>
+                            <polygon id="Path-13-Copy-2" fill="url(#linearGradient-28)" points="27 90 27 80 108 35 108 45"></polygon>
+                            <polygon id="Path-11" fill="url(#linearGradient-29)" points="0 45 81 0 90 5 9 50"></polygon>
+                            <polygon id="Path-11-Copy" fill="url(#linearGradient-29)" points="9 60 90 15 99 20 18 65"></polygon>
+                            <polygon id="Path-11-Copy-2" fill="url(#linearGradient-29)" points="18 75 99 30 108 35 27 80"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
