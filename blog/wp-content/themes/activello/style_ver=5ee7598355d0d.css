@@ -1705,7 +1705,7 @@ header.page-header {
   border: 1px solid transparent;
   width: 360px;
   height: 261px;
-  background: url("https://chilunyc.com/blog/wp-content/uploads/2017/01/sub-bg.png") no-repeat;
+  background: url("https://www.totemtec.com/blog/wp-content/uploads/2017/01/sub-bg.png") no-repeat;
   -webkit-background-size: 100% 100%;
   background-size: 100% 100%;
   text-align: center;
@@ -2156,15 +2156,15 @@ a:hover, a:focus {
   background-position: center; }
 
 .blog-icon {
-  background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/img/blog-icon.svg);
+  background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/img/blog-icon.svg);
   background-size: 20px; }
 
 .daily-icon {
-  background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/img/daily-icon.svg);
+  background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/img/daily-icon.svg);
   background-size: 18px; }
 
 .back-icon {
-  background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/img/back-icon.svg);
+  background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/img/back-icon.svg);
   background-size: 18px;
   vertical-align: text-bottom; }
 
@@ -2300,7 +2300,7 @@ a:hover, a:focus {
     line-height: 2.5;
     word-break: break-word;
     padding: 16px;
-    background: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/img/company-info-bg.png) right bottom no-repeat;
+    background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/img/company-info-bg.png) right bottom no-repeat;
     background-size: 166px 100px; }
 #secondary .input-group-btn {
   overflow: hidden; }
@@ -2393,9 +2393,9 @@ a:hover, a:focus {
     margin-right: 16px;
     background-size: 30px;
     background-repeat: no-repeat;
-    background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/img/succ-icon.png); }
+    background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/img/succ-icon.png); }
   .subscription-text .warning-icon {
-    background-image: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/img/warning-icon.png); }
+    background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/img/warning-icon.png); }
   .subscription-text .close-warning {
     float: right;
     display: inline-block;
@@ -2403,7 +2403,7 @@ a:hover, a:focus {
     height: 12px;
     margin-top: 19px;
     margin-right: 20px;
-    background: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/img/close-notification.png) center no-repeat;
+    background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/img/close-notification.png) center no-repeat;
     background-size: 12px 12px; }
   .subscription-text .notification-msg {
     display: inline-block;
@@ -2818,11 +2818,11 @@ footer {
 .footer {
   height: 400px;
   overflow: hidden;
-  background: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/footer-bg-app.svg);
+  background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/footer-bg-app.svg);
   background-size: cover;
   position: relative; }
   .footer.app-footer {
-    background: url(https://chilunyc.com/blog/wp-content/themes/activello/inc/images/footer-bg-app.svg); }
+    background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/footer-bg-app.svg); }
   .footer h2,
   .footer .h2 {
     margin-top: 135px;

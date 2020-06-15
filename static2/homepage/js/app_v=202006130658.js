@@ -30,7 +30,7 @@ var checkRealmName = function () {
     if (host.search(/192|127|localhost|chilunyc.com/g) == -1) {
         $.ajax({
             type: 'POST',
-            url: 'https://chilunyc.com/common/current_site',
+            url: 'https://www.totemtec.com/common/current_site',
             headers: {
                 "Access-Control-Allow-Origin": "*",
             },

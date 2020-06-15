@@ -12,5 +12,5 @@ Disallow: /blog/category/gear-cases
 Disallow: /hui_store/service_term
 Disallow: /hui_store/privacy 
 Disallow: /silk
-Sitemap: https://chilunyc.com/sitemap.xml
+Sitemap: https://www.totemtec.com/sitemap.xml
 
