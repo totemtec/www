@@ -174,7 +174,7 @@ nav {
   height: 30px;
   width: 123px;
   background-size: contain;
-  background-image: url("https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/gear-logo@2x.png"); }
+  background-image: url("https://www.test-test.com/blog/wp-content/themes/activello/inc/images/gear-logo@2x.png"); }
 
 .navbar-toggle .icon-bar {
   background: #fff; }
@@ -186,7 +186,7 @@ nav {
   display: inline-block;
   width: 17px;
   height: 17px;
-  background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/close-bar@2x.png) no-repeat;
+  background: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/close-bar@2x.png) no-repeat;
   background-size: 17px 17px;
   margin-left: -35px;
   vertical-align: center; }
@@ -235,7 +235,7 @@ nav {
           display: inline-block;
           width: 40px;
           height: 16px;
-          background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/new-label@2x.png) no-repeat center;
+          background: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/new-label@2x.png) no-repeat center;
           background-size: 40px 16px;
           vertical-align: middle;
           margin-left: 3px; }
@@ -293,7 +293,7 @@ header.new-face {
   header.new-face nav {
     background: transparent; }
   header.new-face .logo {
-    background-image: url("https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/gear-logo@2x.png");
+    background-image: url("https://www.test-test.com/blog/wp-content/themes/activello/inc/images/gear-logo@2x.png");
     width: 123px;
     height: 30px; }
 
@@ -325,7 +325,7 @@ header.new-face {
     display: inline-block;
     width: 17px;
     height: 9px;
-    background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/hangye-arrow@2x.png) no-repeat;
+    background: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/hangye-arrow@2x.png) no-repeat;
     background-size: 17px 9px;
     margin-top: 30px;
     margin-right: 30px; }
@@ -444,7 +444,7 @@ header.new-face {
     right: -10px;
     bottom: -10px;
     z-index: -1;
-    background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/btn-bg-blur.png) no-repeat center center;
+    background: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/btn-bg-blur.png) no-repeat center center;
     opacity: 0.6; }
 
 .btn-blur-mid {
@@ -460,7 +460,7 @@ header.new-face {
     right: -10px;
     bottom: -10px;
     z-index: -1;
-    background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/btn-bg-blur-mid.png) no-repeat center center;
+    background: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/btn-bg-blur-mid.png) no-repeat center center;
     opacity: 0.6; }
 
 /*# sourceMappingURL=header.css.map */

@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>https://www.totemtec.com/sitemap-static.xml</loc>
+        <loc>https://www.test-test.com/sitemap-static.xml</loc>
         <lastmod>2020-03-17</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://www.totemtec.com/blog/sitemap-posttype-post.xml</loc>
+        <loc>https://www.test-test.com/blog/sitemap-posttype-post.xml</loc>
         <lastmod>2020-03-17</lastmod>
     </sitemap>
 </sitemapindex>

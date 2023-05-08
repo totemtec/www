@@ -86,7 +86,7 @@
       top: 10px;
       z-index: 90;
       height: 78px;
-      background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/call-tag-bg@2x.png) center no-repeat;
+      background: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/call-tag-bg@2x.png) center no-repeat;
       background-size: 245px 78px;
       transition: all 0.3s linear;
       overflow: hidden;
@@ -113,7 +113,7 @@
     background-position: center;
     background-size: 28px; }
   .quickly-open .tijiao-icon {
-    background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-tijiao-new.svg);
+    background-image: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-tijiao-new.svg);
     position: relative;
     background-size: 22px; }
     .quickly-open .tijiao-icon::after {
@@ -123,21 +123,21 @@
       top: 5px;
       width: 11px;
       height: 13px;
-      background: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/tijiao-gif.gif) center no-repeat;
+      background: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/tijiao-gif.gif) center no-repeat;
       background-size: 11px 13px; }
   .quickly-open .call-icon {
-    background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-call-new.svg);
+    background-image: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-call-new.svg);
     background-size: 24px; }
   .quickly-open .meiqia-icon {
-    background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-lianxi-new.svg);
+    background-image: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/icon-lianxi-new.svg);
     background-size: 22px; }
   .quickly-open .wechat-qr-code-icon {
-    background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/wecchat-qr-code-icon-new.svg);
+    background-image: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/wecchat-qr-code-icon-new.svg);
     background-size: 25px; }
   .quickly-open .callback-top-btn-box {
     height: 70px; }
   .quickly-open .callback-top-icon {
-    background-image: url(https://www.totemtec.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/callback-top-icon.png);
+    background-image: url(https://www.test-test.com/blog/wp-content/themes/activello/inc/images/sidebar-icons/callback-top-icon.png);
     background-size: 22px; }
   .quickly-open .callback-top-btn {
     position: relative;

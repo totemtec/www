@@ -101,7 +101,7 @@ function isMobile() {
 // 拨打电话
 function callTal() {
     if (isPhone()) {
-        window.location.href = "tel:138-1152-2352";
+        window.location.href = "tel:138-8888-8888";
     }
 }
 
